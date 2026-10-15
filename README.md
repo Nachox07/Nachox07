@@ -11,7 +11,7 @@ where I do my own work on evaluation: a labelled dataset at the real production
 mix, misses and false alarms counted separately, prompt changes measured before
 they ship, and model choices decided on numbers rather than impressions.
 
-- Mostly TypeScript and Node.js, with Python and SQL
+- Mostly TypeScript and Node.js, plus Go, Python and SQL
 - Working on: retrieval over Tardeo's own agenda, and publishing the evaluation
   harness behind the extraction pipeline
 - Ask me about evaluating LLM output, agent tooling, or running a small AI system
