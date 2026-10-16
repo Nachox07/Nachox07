@@ -12,8 +12,10 @@ mix, misses and false alarms counted separately, prompt changes measured before
 they ship, and model choices decided on numbers rather than impressions.
 
 - Mostly TypeScript and Node.js, plus Go, Python and SQL
-- Working on: retrieval over Tardeo's own agenda, and publishing the evaluation
-  harness behind the extraction pipeline
+- Published: [extraction-evals](https://github.com/Nachox07/extraction-evals), the
+  harness and report behind Tardeo's extraction prompt changes, including the
+  held-out check where the gain did not replicate
+- Working on: retrieval over Tardeo's own agenda
 - Ask me about evaluating LLM output, agent tooling, or running a small AI system
   on hardware you own
 
